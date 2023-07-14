@@ -1,6 +1,6 @@
 <template>
   <v-container class="ma-6">
-    <h1>Copy Text App</h1>
+    <h1>Welcome back</h1>
     <text-input v-model="inputText"></text-input>
     <v-btn color="primary" @click="copyToClipboard">Copy</v-btn>
     <v-alert v-if="isCopied" type="success">Text copied!</v-alert>
