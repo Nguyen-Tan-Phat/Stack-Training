@@ -1,0 +1,6 @@
+{
+  "appId": "com.app.stackTraining",
+  "appName": "Stack-Training",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

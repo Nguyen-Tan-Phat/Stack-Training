@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Stack-Training</string>
+    <string name="title_activity_main">Stack-Training</string>
+    <string name="package_name">com.app.stackTraining</string>
+    <string name="custom_url_scheme">com.app.stackTraining</string>
+</resources>
